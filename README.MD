@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O projeto Calendário da Copa foi desenvolvido no NLW Copa da Rocketseat  onde mostra os jogos da Copa de 2022
+Link do Projeto https://sheila-oliveira.github.io/NLW-Copa/
 
 <h1 align="center">
 
